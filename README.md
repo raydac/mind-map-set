@@ -8,4 +8,4 @@ All collected information has been found in open video sources and presentations
 Sources of mind maps presented in [MMD format](https://sciareto.org). Also each mind map presented as pre-rendered both PNG image and SVG image.
 
 # Post-word
-Yes, I know that the mind maps are too complex and not follow traditional mind mapping standards. It is better to recognize them as data sheets in the case.
+I know that the mind maps are too complex and don't follow traditional mind mapping standards. It is better to recognize them as data sheets in the case.
